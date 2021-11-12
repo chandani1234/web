@@ -1,0 +1,304 @@
+.navbar-chanu {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.navbar-default.scrolled {
+
+  background-image: linear-gradient(to right, rgb(76, 86, 179), rgb(100, 27, 27));
+
+}
+
+.jumbotron {
+  background-image: url(https://www.spec-india.com/wp-content/uploads/2018/02/02.jpg);
+
+
+  color: #fff;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+  height: 700px;
+  background-color: slateblue;
+  opacity: 0.8;
+}
+
+.card-button {
+
+  background: rgb(255, 255, 255);
+  color: #0095da;
+  padding: 13px 55px;
+  display: inline-block;
+  border-radius: 50px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #0095da;
+  font-weight: 500;
+  font-size: 13px;
+  margin-left: -429px;
+}
+
+.card-button:hover {
+  background-color: #0095da;
+}
+
+.text {
+  margin-right: 300px;
+  font-size: 30px;
+}
+
+.img {
+  height: 100px;
+  margin: 5px 15px;
+  opacity: .8;
+  filter: grayscale(100%);
+  transition: all .5s ease;
+}
+
+.btn1 {
+  background: #0095da;
+  color: rgb(17, 13, 13);
+  padding: 13px 55px;
+  display: inline-block;
+  border-radius: 50px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #0095da;
+  font-weight: 700;
+  font-size: 15px;
+  margin-right: -88px;
+
+}
+
+.btn1:hover {
+  background-color: white;
+
+}
+
+.btn2 {
+  background: rgb(255, 255, 255);
+  color: black;
+  padding: 13px 65px;
+  display: inline-block;
+  border-radius: 50px;
+  margin-top: 5px;
+  margin-bottom: 6px;
+  border: 1px solid #0095da;
+  font-weight: 400;
+  font-size: 10px;
+  margin-right: -225px;
+}
+
+.btn2:hover {
+  background-color: #0095da;
+
+}
+
+.fri-box .c2 {
+  background: #1c75bd;
+  padding: 5px;
+  width: 100%;
+  border-radius: 30px;
+
+}
+
+.fri-box .c2 {
+  background: #1c75bd;
+  padding: 5px;
+  width: 100%;
+}
+
+.img-text {
+  width: 100%;
+  height: 300px;
+  display: block;
+  text-align: center;
+  padding: 40% 5%;
+  background-color: crimson;
+  color: darkblue;
+  border-radius: 15px;
+
+}
+
+.img-text h2 {
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.img-text p {
+  font-size: 14px;
+}
+
+.single-box {
+  position: absolute;
+  margin-bottom: 30px;
+}
+
+.img-area {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 5px soild blanchedalmond;
+  overflow: hidden;
+  top: 15px;
+  left: 125px;
+  border-radius: 50%;
+}
+.card1:hover {
+transform:scale(1.1);
+}
+.img4{
+padding: 15px;
+position: absolute;
+bottom: 15px;
+left: 15px;
+background: #fff;
+border-radius: 20px;
+width: calc(100% - 51px);
+padding-left: 101px;
+margin-left: 12px;
+box-shadow: 0px 3px 6px #00000029;
+min-height: 285px;
+
+}
+.img5{
+position: absolute;
+bottom: 15px;
+left: 15px;
+background: #fff;
+border-radius: 20px;
+width: calc(100% - 51px);
+padding-left: 101px;
+margin-left: 12px;
+box-shadow: 0px 3px 6px #00000029;
+min-height: 251px;
+
+}
+.img7{
+position: absolute;
+bottom: 15px;
+left: 15px;
+background: #fff;
+border-radius: 20px;
+width: calc(100% - 51px);
+padding-left: 101px;
+margin-left: 12px;
+box-shadow: 0px 3px 6px #00000029;
+min-height: 242px;
+
+
+
+}
+
+
+.sucess{
+background-image: url(https://www.spec-india.com/wp-content/uploads/2020/05/30_bg.svg);
+background-color: #d9ffde;
+border-radius: 30px;
+padding: 100px 50px;
+background-size: cover;
+background-position: center bottom;
+position: relative;
+height: 412px;
+width: auto;
+margin-right: -64px;
+margin-left: -67px;
+margin-top: 56px;
+}
+/* .success1{
+background: url(https://www.spec-india.com/wp-content/themes/twentysixteen-child/images/30.svg);
+} */
+.button2{
+ margin: -2.6em;
+padding: .7em 1em;
+cursor: pointer;
+background: #0095da;
+color: #fff;
+text-decoration: none;
+-webkit-font-smoothing: antialiased;
+display: inline-block;
+vertical-align: middle;
+position: relative;
+border:#0095da; 
+border-radius: 5px;
+margin-right: 137px;
+margin-top: 4px;
+}
+/* .india{
+
+width: 20px;
+height: 18px;
+} */
+.footer{
+background: url(https://www.spec-india.com/wp-content/themes/twentysixteen-child/images/map.svg);
+
+}
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+}
+.fa-facebook {
+margin-left: 402px;
+margin-top: 11px;
+color: black;
+font-size: 27px;
+margin-right: -11px;
+}
+.fa-linkedin {
+margin-top: 11px;
+color: black;
+font-size: 27px;
+margin-left: -7px;
+}
+.fa-twitter {
+margin-top: 11px;
+color: white;
+font-size: 27px;
+margin-left: -11px;
+
+
+}
+
+.fa-skype {
+margin-top: 11px;
+color: white;
+font-size: 27px;
+margin-left: -11px;
+}
+
+.fa-rss {
+margin-top: 11px;
+color: white;
+font-size: 27px;
+margin-left: -11px;
+
+}
+.fa-dribbble {
+margin-top: 11px;
+color: white;
+font-size: 27px;
+margin-left: -11px;
+
+}
+.fa-behance{
+margin-top: 11px;
+color: white;
+font-size: 27px;
+margin-left: -11px;
+
+}
+
+
+
+
+
+
+
+
